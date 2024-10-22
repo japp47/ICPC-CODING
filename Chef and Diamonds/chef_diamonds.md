@@ -14,7 +14,7 @@ E=max i*P(i) for i from Q to N+Q
 
 we want our exp to finish in K turns
 P(k)
-            kth
+           kth
 _ _ _ _ _ _ D _ _ _N+Q
 count no of ways I can fill other spaces with Q diamonds and remaining K-Q spaces with chocolates.
 P = fav outcomes/total number of sceanrio
